@@ -56,7 +56,7 @@ module.exports = {
         host: '0.0.0.0',
         port: 3000
     },
-    // 注册插件 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
+    // 注册插件 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 AND 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
     plugins: [
         '~/plugins/request.js'
     ]
